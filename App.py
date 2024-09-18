@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title ('My App')
+st.title ('Simple Calculator')
 
 num1 = st.number_input('Enter a number')
 num2 = st.number_input('Enter another number')
